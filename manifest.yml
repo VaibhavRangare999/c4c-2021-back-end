@@ -1,0 +1,5 @@
+---
+applications:
+- name: c4c-2021-be-vaibhav
+  random-route: true
+  memory:  256M

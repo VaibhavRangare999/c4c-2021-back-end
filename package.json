@@ -1,0 +1,21 @@
+{
+  "name": "c4c-2021-be-vaibhav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Rangare",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.8",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "csv-append": "^1.0.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "express": "^4.17.1",
+    "unirest": "^0.6.0"
+  }
+}
